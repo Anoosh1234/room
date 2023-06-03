@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [open project](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-0MY8xv1ndk)
-- Live Site URL: [ open live site](https://rakesh-room-home-page.netlify.app/)
+- Live Site URL: [ open live site]
 
 ### Built with
 
@@ -38,5 +37,4 @@ Users should be able to:
 
 ## Author
 
-- Github - [Rakesh Noothi](https://github.com/rakeshnoothi)
-- Frontend Mentor - [@rakeshnoothi](https://www.frontendmentor.io/profile/rakeshnoothi)
+- Github - [Anoosh Pandu](https://github.com/anooshpandu1234)
